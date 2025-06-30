@@ -13,9 +13,7 @@ This is a front-end clone of the popular music streaming service *Spotify, built
 
 ## 📸 Screenshots
 
-| Home Screen | Music Player |
-|-------------|--------------|
-| ![Home](screenshots/home.png) | ![Player](screenshots/player.png) |
+| ![Home](https://github.com/Sudeshj9797/Spotify-clone/blob/main/snapshoot%20of%20spotify%20clone.png) 
 
 ## 🛠 Tech Stack
 
